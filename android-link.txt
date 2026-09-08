@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fence-holmes-monster-adjustable.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://awards-recipes-gain-automatically.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-07 22:49:05 UTC
+Created   : 2026-09-08 03:53:22 UTC
 =======================================================
