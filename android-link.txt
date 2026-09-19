@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vinyl-contemporary-parental-budget.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://legs-bras-trees-getting.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-18 22:35:10 UTC
+Created   : 2026-09-19 03:58:57 UTC
 =======================================================
